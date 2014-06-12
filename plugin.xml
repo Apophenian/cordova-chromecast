@@ -4,7 +4,7 @@
     id="acidhax.cordova.chromecast"
     version="0.0.1-alpha">
   <engines>
-    <engine name="cordova" version=">=3.4.0" />
+    <engine name="cordova" version=">=3.1.0" />
   </engines>
 
   <name>Cordova ChromeCast</name>
